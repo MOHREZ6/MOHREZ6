@@ -12,5 +12,3 @@ Skills:   JS / HTML / CSS/BOOTSTRAP/NPM
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abbasi-8237a3280//)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username= )  
-
