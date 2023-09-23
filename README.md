@@ -6,7 +6,7 @@ I'm Mohammad from Iran, and I do content on Design and Development. I really enj
 
 Skills:   JS / HTML / CSS/BOOTSTRAP/NPM
 
-- 🔭 I’m currently working on I'm currently working on remote 
+- 🔭I'm currently working on remote 
 - 📫 How to reach me: https://www.linkedin.com/in/mohammad-abbasi-8237a3280/ 
 
 
